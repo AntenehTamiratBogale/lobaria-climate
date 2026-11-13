@@ -1,0 +1,32 @@
+protein,oxidoreductase activity (GO:0016491),"oxidoreductase activity, acting on a sulfur group of donors (GO:0016667)","oxidoreductase activity, acting on CH-OH group of donors (GO:0016614)","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor (GO:0016616)",logFC
+ATP-dependent protease ATPase subunit HslU,1,0,0,0,-1.577836672
+"thiol peroxidase, putative",1,0,0,0,1.23024759
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase ,1,0,0,0,1.757299013
+glutathione peroxidase,1,0,0,0,-1.483465421
+Glyoxalase/bleomycin resistance protein/dioxygenase,1,0,0,0,-1.435057468
+Aldehyde ferredoxin oxidoreductase ,1,0,0,0,-1.830177503
+Methenyltetrahydrofolate cyclohydrolase,1,0,0,0,-1.219777507
+uroporphyrin-III C-methyltransferase,1,0,0,0,-0.931202516
+coproporphyrinogen III oxidase,1,0,0,0,1.372992476
+redoxin family protein,1,0,0,0,1.164575129
+Glyceraldehyde-3-phosphate dehydrogenase,1,0,0,0,2.753158121
+"Catalase A, putative",1,0,0,0,-1.549881904
+TrxA,1,1,0,0,2.319703042
+thioredoxin reductase ,1,1,0,0,1.838575665
+peptide methionine sulfoxide reductase,1,1,0,0,1.086919046
+cytochrome c biogenesis thiol:disulfide interchange protein DsbE,1,1,0,0,1.132990756
+thioredoxin,1,1,0,0,1.20333446
+alkyl hydroperoxide reductase subunit F ,1,1,0,0,0.921891167
+"dihydrolipoyl dehydrogenase, putative",1,1,0,0,1.41764547
+glucose-methanol-choline oxidoreductase,1,0,1,0,1.165790551
+mannitol-1-phosphate dehydrogenase,1,0,1,1,1.152387447
+aldo/keto reductase,1,0,1,1,1.682850219
+6-phosphogluconate dehydrogenase,1,0,1,1,1.224216012
+Histidinol dehydrogenase,1,0,1,1,1.341863335
+3-oxoacyl-(acyl-carrier-protein) reductase,1,0,1,1,1.155523505
+"malate dehydrogenase, NAD-dependent",1,0,1,1,1.731545379
+3-isopropylmalate dehydrogenase,1,0,1,1,1.035949392
+1-deoxy-D-xylulose 5-phosphate reductoisomerase,1,0,1,1,-2.585393738
+pyridoxal phosphate biosynthetic protein PdxA ,1,0,1,1,1.791859353
+zinc-type alcohol dehydrogenase ,1,0,1,1,1.481797341
+mannitol dehydrogenase domain protein,1,0,1,1,1.214871999

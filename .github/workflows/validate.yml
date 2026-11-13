@@ -1,0 +1,14 @@
+name: Validate companion archive
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+      - name: Parse portable R scripts
+        run: Rscript -e 'for (f in c("analysis/lichen_data_analysis.R", "analysis/run_analysis.R", "scripts/install_dependencies.R")) parse(f)'
+      - name: Verify archived file checksums
+        run: sha256sum -c checksums.sha256
+      - name: Check data consistency
+        run: python3 scripts/validate_data.py

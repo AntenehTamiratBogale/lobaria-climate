@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+results/analysis_plots.pdf
+results/sessionInfo.txt
+__pycache__/
+.DS_Store

@@ -1,0 +1,293 @@
+protein,logFC,Gene_ID,adj.P.Val,neg_log10_p_val,abundance_difference,Regulation,Catagory,GO_Term
+ATP-dependent protease ATPase subunit HslU,-1.577836672,GI:110816454,0.006054825,2.986156409,40.12927971,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+multidrug efflux transporter,1.141833337,GI:255922706,0.033282314,2.021854528,19.82713274,up-regulated in ALP,structural molecule activity (GO:0005198),no
+mannitol-1-phosphate dehydrogenase,1.152387447,GI:209959333,0.006595789,2.9145462,3.329775159,up-regulated in ALP,structural molecule activity (GO:0005198),no
+"thiol peroxidase, putative",1.23024759,GI:375750916,0.000506283,4.518123276,14.01973345,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Putative glutathione S-transferase,1.587306764,GI:108465068,0.037946093,1.938746136,0.249838274,up-regulated in ALP,structural molecule activity (GO:0005198),no
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase ,1.757299013,GI:345091753,0.000215093,5.225682855,22.4467435,up-regulated in ALP,structural molecule activity (GO:0005198),no
+maltooligosyl trehalose synthase,1.159773776,GI:186468201,0.016357206,2.398474739,28.21222522,up-regulated in ALP,structural molecule activity (GO:0005198),no
+aldo/keto reductase,1.682850219,GI:1373903653,0.000684899,4.17327137,29.38492174,up-regulated in ALP,structural molecule activity (GO:0005198),no
+putative GTPase of unknown function,1.357439549,GI:114540229,0.000514651,4.461531106,17.5400078,up-regulated in ALP,structural molecule activity (GO:0005198),no
+glutathione peroxidase,-1.483465421,GI:319995798,0.020220888,2.272281696,49.83079921,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+Glutathione S-transferase domain,1.271476281,GI:89336184,0.000370648,4.715532918,9.403349793,up-regulated in ALP,structural molecule activity (GO:0005198),no
+ABC transporter related,-1.847179159,GI:158280663,0.00242672,3.446290131,59.88312633,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+ribosomal protein S7,-1.030246345,GI:179347184,0.040755846,1.893760912,66.54390448,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+Ferritin Dps family protein,1.159008447,GI:323468364,0.000962602,3.955072998,39.51149795,up-regulated in ALP,structural molecule activity (GO:0005198),no
+heat shock protein Hsp20,-1.41823976,GI:119954629,0.04814558,1.796570817,1.160365094,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+ribosomal protein L13 ,-1.073474807,GI: 94422018,0.02645048,2.135874918,36.10796839,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+cold shock-like protein,1.110059984,GI:154353178,0.002394598,3.465865477,19.15507325,up-regulated in ALP,structural molecule activity (GO:0005198),no
+glucose-methanol-choline oxidoreductase,1.165790551,GI:110822845,0.000661028,4.263927829,17.82116613,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Glyoxalase/bleomycin resistance protein/dioxygenase,-1.435057468,GI:284810157,0.020220888,2.269870613,32.39624069,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+rehalose synthase/probable maltokinase,1.38970981,GI:332012767,0.000215093,5.256955226,36.06658815,up-regulated in ALP,structural molecule activity (GO:0005198),no
+TrxA,2.319703042,GI:122228946,0.0000267,6.432458994,0.717746244,up-regulated in ALP,structural molecule activity (GO:0005198),no
+RNA-binding S4 domain protein ,1.192247577,GI:359758439,0.001366881,3.785755644,9.40387229,up-regulated in ALP,structural molecule activity (GO:0005198),no
+formamidopyrimidine-DNA glycosylase,2.167840071,GI:94556551,0.000215093,5.275176527,63.41433052,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Aldehyde ferredoxin oxidoreductase ,-1.830177503,GI:154698438,0.000370648,4.735495637,11.51951611,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+LSU ribosomal protein L20P,-1.228043338,GI:332012200,0.043735808,1.844364227,69.38395163,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+"DNA ligase, NAD-dependent ",1.324451639,GI:186465487,0.000680122,4.202842939,43.68230114,up-regulated in ALP,structural molecule activity (GO:0005198),no
+OmpA/MotB domain protein,1.402650896,GI:326199319,0.000514651,4.420826879,5.437514631,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Glutathione S-transferase domain protein,1.32789933,GI:148499027,0.000684899,4.139105444,45.10006126,up-regulated in ALP,structural molecule activity (GO:0005198),no
+6-phosphogluconate dehydrogenase,1.224216012,GI:116256971,0.049038414,1.782600458,7.933871064,up-regulated in ALP,structural molecule activity (GO:0005198),no
+LSU ribosomal protein L16P,-1.249020023,GI:186466935,0.01173493,2.576783166,19.36538391,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+chaperonin GroEL,-1.545846937,GI:332012950,0.040209091,1.90606068,27.53136072,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+ATP-dependent protease La,1.254467094,GI:289528456,0.000514651,4.434728485,65.59684072,up-regulated in ALP,structural molecule activity (GO:0005198),no
+ribosomal protein S9,1.266216069,GI:255924300,0.000370648,4.688316679,33.9621829,up-regulated in ALP,structural molecule activity (GO:0005198),yes
+thioredoxin reductase ,1.838575665,GI:182634387,0.000222817,5.08542214,23.60033701,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Cold shock-like protein CspC  ,-1.541371698,GI:332014130,0.009658001,2.698359984,28.02829339,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+Histidinol dehydrogenase,1.341863335,GI:160342602,0.007223941,2.844217068,43.17917034,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Methenyltetrahydrofolate cyclohydrolase,-1.219777507,GI:117647980,0.036469814,1.975185637,31.45905024,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+uroporphyrin-III C-methyltransferase,-0.931202516,GI:114550167,0.037946093,1.937748737,32.12780138,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+peptide methionine sulfoxide reductase,1.086919046,GI:333823467,0.007177322,2.857248043,23.90001233,up-regulated in ALP,structural molecule activity (GO:0005198),no
+cold-shock DNA-binding domain protein,1.899860841,GI:358753416,0.000222817,5.126500952,40.53475129,up-regulated in ALP,structural molecule activity (GO:0005198),no
+3-oxoacyl-(acyl-carrier-protein) reductase,1.155523505,GI:336282959,0.020220888,2.272274373,11.83966795,up-regulated in ALP,structural molecule activity (GO:0005198),no
+"malate dehydrogenase, NAD-dependent",1.731545379,GI:179347425,0.006547957,2.931579665,26.15240872,up-regulated in ALP,structural molecule activity (GO:0005198),no
+cold shock protein ,1.302140218,GI:114315197,0.009849087,2.680305915,7.575859791,up-regulated in ALP,structural molecule activity (GO:0005198),no
+ATP-dependent Clp protease ATP-binding subunit ClpX,-1.778486489,GI:288909190,0.0000141,6.887429667,2.595374163,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+50S ribosomal protein L7/L12,-1.87646691,GI:319750906,0.032849919,2.034595592,2.885758639,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+3-isopropylmalate dehydrogenase,1.035949392,GI:332012449,0.006595789,2.904409103,40.31603787,up-regulated in ALP,structural molecule activity (GO:0005198),no
+Ribosomal protein S11,1.068254109,GI:67461921,0.011672814,2.588042943,18.90978251,up-regulated in ALP,structural molecule activity (GO:0005198),yes
+1-deoxy-D-xylulose 5-phosphate reductoisomerase,-2.585393738,GI:321164371,0.000680122,4.224546647,35.72218677,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+cytochrome c biogenesis thiol:disulfide interchange protein DsbE,1.132990756,GI:332886388,0.001814677,3.620993361,36.69221947,up-regulated in ALP,structural molecule activity (GO:0005198),no
+pyridoxal phosphate biosynthetic protein PdxA ,1.791859353,GI:119465673,0.000370648,4.739836441,25.31799801,up-regulated in ALP,structural molecule activity (GO:0005198),no
+molecular chaperone,-1.198529942,GI:116096055,0.020220888,2.267231521,23.96950603,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+Endonuclease VIII,-1.484192575,GI:254806368,0.002617426,3.374517325,18.37867062,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+putative ABC transporter ATPase subunit,-1.116950837,GI:170655154,0.011484416,2.604252951,7.850977076,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+heat shock protein HSP33,-1.385796681,GI:326696029,0.005936743,3.006608955,2.241748554,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+"glutathione S-transferase, putative",-1.475128401,GI:72494195,0.043058676,1.863549967,12.14117535,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+30S ribosomal protein s10,-2.289416726,GI:163665444,0.001814677,3.615262501,12.69084508,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+thioredoxin,1.20333446,GI:170657580,0.000661028,4.260967605,2.114870723,up-regulated in ALP,structural molecule activity (GO:0005198),no
+zinc-type alcohol dehydrogenase ,1.481797341,GI:154696677,0.002394598,3.469587631,3.019019706,up-regulated in ALP,structural molecule activity (GO:0005198),no
+coproporphyrinogen III oxidase,1.372992476,GI:91800108,0.000684899,4.157200233,15.75736233,up-regulated in ALP,structural molecule activity (GO:0005198),no
+-diphosphocytidyl-2-C-methyl-D-erythritol kinase ,1.102255395,GI:168195915,0.002525778,3.415550665,62.26162458,up-regulated in ALP,structural molecule activity (GO:0005198),no
+alkyl hydroperoxide reductase subunit F ,0.921891167,GI:159140768,0.01390023,2.485867564,9.654693502,up-regulated in ALP,structural molecule activity (GO:0005198),no
+tRNA modification GTPase TrmE,-0.942893887,GI:118597097,0.014529135,2.458216629,5.301544231,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+mannitol dehydrogenase domain protein,1.214871999,GI:321257195,0.001420804,3.75256187,4.256994234,up-regulated in ALP,structural molecule activity (GO:0005198),no
+DJ-1/PfpI family protein,-1.534359489,GI:311889634,0.017459884,2.362024631,19.5113531,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+redoxin family protein,1.164575129,GI:119671109,0.00259747,3.39043029,55.85236069,up-regulated in ALP,structural molecule activity (GO:0005198),no
+RNA chaperone Hfq,-1.020951019,GI:334729348,0.043278499,1.855089499,36.22913389,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+Glyceraldehyde-3-phosphate dehydrogenase,2.753158121,GI:148499216,1.47E-08,10.16880946,42.74989642,up-regulated in ALP,structural molecule activity (GO:0005198),no
+30S ribosomal protein S3,1.46103572,GI:150029691,0.00831952,2.772908796,42.5483617,up-regulated in ALP,structural molecule activity (GO:0005198),yes
+ATP-dependent Clp protease proteolytic subunit 1,-1.624955395,GI:123749869,0.012380142,2.544764116,8.261458101,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+50S ribosomal protein L1,-2.003085916,GI:158271679,0.006547957,2.929289296,29.72533367,down-regulated in ALP ,structural molecule activity (GO:0005198),yes
+Cold shock-like protein CspG ,1.263236211,GI:357423929,0.022754344,2.208543402,3.594569493,up-regulated in ALP,structural molecule activity (GO:0005198),no
+"Catalase A, putative",-1.549881904,GI:258575595,0.037946093,1.943254832,28.83092045,down-regulated in ALP ,structural molecule activity (GO:0005198),no
+"dihydrolipoyl dehydrogenase, putative",1.41764547,GI:154158253,0.000934315,3.985755343,31.00465287,up-regulated in ALP,structural molecule activity (GO:0005198),no
+ATP-dependent protease ATPase subunit HslU,-1.577836672,GI:110816454,0.006054825,2.986156409,40.12927971,down-regulated in ALP ,binding (GO:0005488),yes
+multidrug efflux transporter,1.141833337,GI:255922706,0.033282314,2.021854528,19.82713274,up-regulated in ALP,binding (GO:0005488),no
+mannitol-1-phosphate dehydrogenase,1.152387447,GI:209959333,0.006595789,2.9145462,3.329775159,up-regulated in ALP,binding (GO:0005488),no
+"thiol peroxidase, putative",1.23024759,GI:375750916,0.000506283,4.518123276,14.01973345,up-regulated in ALP,binding (GO:0005488),no
+Putative glutathione S-transferase,1.587306764,GI:108465068,0.037946093,1.938746136,0.249838274,up-regulated in ALP,binding (GO:0005488),no
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase ,1.757299013,GI:345091753,0.000215093,5.225682855,22.4467435,up-regulated in ALP,binding (GO:0005488),yes
+maltooligosyl trehalose synthase,1.159773776,GI:186468201,0.016357206,2.398474739,28.21222522,up-regulated in ALP,binding (GO:0005488),no
+aldo/keto reductase,1.682850219,GI:1373903653,0.000684899,4.17327137,29.38492174,up-regulated in ALP,binding (GO:0005488),no
+putative GTPase of unknown function,1.357439549,GI:114540229,0.000514651,4.461531106,17.5400078,up-regulated in ALP,binding (GO:0005488),yes
+glutathione peroxidase,-1.483465421,GI:319995798,0.020220888,2.272281696,49.83079921,down-regulated in ALP ,binding (GO:0005488),no
+Glutathione S-transferase domain,1.271476281,GI:89336184,0.000370648,4.715532918,9.403349793,up-regulated in ALP,binding (GO:0005488),no
+ABC transporter related,-1.847179159,GI:158280663,0.00242672,3.446290131,59.88312633,down-regulated in ALP ,binding (GO:0005488),yes
+ribosomal protein S7,-1.030246345,GI:179347184,0.040755846,1.893760912,66.54390448,down-regulated in ALP ,binding (GO:0005488),yes
+Ferritin Dps family protein,1.159008447,GI:323468364,0.000962602,3.955072998,39.51149795,up-regulated in ALP,binding (GO:0005488),yes
+heat shock protein Hsp20,-1.41823976,GI:119954629,0.04814558,1.796570817,1.160365094,down-regulated in ALP ,binding (GO:0005488),no
+ribosomal protein L13 ,-1.073474807,GI: 94422018,0.02645048,2.135874918,36.10796839,down-regulated in ALP ,binding (GO:0005488),no
+cold shock-like protein,1.110059984,GI:154353178,0.002394598,3.465865477,19.15507325,up-regulated in ALP,binding (GO:0005488),yes
+glucose-methanol-choline oxidoreductase,1.165790551,GI:110822845,0.000661028,4.263927829,17.82116613,up-regulated in ALP,binding (GO:0005488),yes
+Glyoxalase/bleomycin resistance protein/dioxygenase,-1.435057468,GI:284810157,0.020220888,2.269870613,32.39624069,down-regulated in ALP ,binding (GO:0005488),yes
+rehalose synthase/probable maltokinase,1.38970981,GI:332012767,0.000215093,5.256955226,36.06658815,up-regulated in ALP,binding (GO:0005488),yes
+TrxA,2.319703042,GI:122228946,0.0000267,6.432458994,0.717746244,up-regulated in ALP,binding (GO:0005488),no
+RNA-binding S4 domain protein ,1.192247577,GI:359758439,0.001366881,3.785755644,9.40387229,up-regulated in ALP,binding (GO:0005488),yes
+formamidopyrimidine-DNA glycosylase,2.167840071,GI:94556551,0.000215093,5.275176527,63.41433052,up-regulated in ALP,binding (GO:0005488),yes
+Aldehyde ferredoxin oxidoreductase ,-1.830177503,GI:154698438,0.000370648,4.735495637,11.51951611,down-regulated in ALP ,binding (GO:0005488),yes
+LSU ribosomal protein L20P,-1.228043338,GI:332012200,0.043735808,1.844364227,69.38395163,down-regulated in ALP ,binding (GO:0005488),yes
+"DNA ligase, NAD-dependent ",1.324451639,GI:186465487,0.000680122,4.202842939,43.68230114,up-regulated in ALP,binding (GO:0005488),yes
+OmpA/MotB domain protein,1.402650896,GI:326199319,0.000514651,4.420826879,5.437514631,up-regulated in ALP,binding (GO:0005488),no
+Glutathione S-transferase domain protein,1.32789933,GI:148499027,0.000684899,4.139105444,45.10006126,up-regulated in ALP,binding (GO:0005488),no
+6-phosphogluconate dehydrogenase,1.224216012,GI:116256971,0.049038414,1.782600458,7.933871064,up-regulated in ALP,binding (GO:0005488),yes
+LSU ribosomal protein L16P,-1.249020023,GI:186466935,0.01173493,2.576783166,19.36538391,down-regulated in ALP ,binding (GO:0005488),yes
+chaperonin GroEL,-1.545846937,GI:332012950,0.040209091,1.90606068,27.53136072,down-regulated in ALP ,binding (GO:0005488),yes
+ATP-dependent protease La,1.254467094,GI:289528456,0.000514651,4.434728485,65.59684072,up-regulated in ALP,binding (GO:0005488),yes
+ribosomal protein S9,1.266216069,GI:255924300,0.000370648,4.688316679,33.9621829,up-regulated in ALP,binding (GO:0005488),no
+thioredoxin reductase ,1.838575665,GI:182634387,0.000222817,5.08542214,23.60033701,up-regulated in ALP,binding (GO:0005488),no
+Cold shock-like protein CspC  ,-1.541371698,GI:332014130,0.009658001,2.698359984,28.02829339,down-regulated in ALP ,binding (GO:0005488),yes
+Histidinol dehydrogenase,1.341863335,GI:160342602,0.007223941,2.844217068,43.17917034,up-regulated in ALP,binding (GO:0005488),yes
+Methenyltetrahydrofolate cyclohydrolase,-1.219777507,GI:117647980,0.036469814,1.975185637,31.45905024,down-regulated in ALP ,binding (GO:0005488),no
+uroporphyrin-III C-methyltransferase,-0.931202516,GI:114550167,0.037946093,1.937748737,32.12780138,down-regulated in ALP ,binding (GO:0005488),yes
+peptide methionine sulfoxide reductase,1.086919046,GI:333823467,0.007177322,2.857248043,23.90001233,up-regulated in ALP,binding (GO:0005488),no
+cold-shock DNA-binding domain protein,1.899860841,GI:358753416,0.000222817,5.126500952,40.53475129,up-regulated in ALP,binding (GO:0005488),yes
+3-oxoacyl-(acyl-carrier-protein) reductase,1.155523505,GI:336282959,0.020220888,2.272274373,11.83966795,up-regulated in ALP,binding (GO:0005488),no
+"malate dehydrogenase, NAD-dependent",1.731545379,GI:179347425,0.006547957,2.931579665,26.15240872,up-regulated in ALP,binding (GO:0005488),no
+cold shock protein ,1.302140218,GI:114315197,0.009849087,2.680305915,7.575859791,up-regulated in ALP,binding (GO:0005488),yes
+ATP-dependent Clp protease ATP-binding subunit ClpX,-1.778486489,GI:288909190,0.0000141,6.887429667,2.595374163,down-regulated in ALP ,binding (GO:0005488),yes
+50S ribosomal protein L7/L12,-1.87646691,GI:319750906,0.032849919,2.034595592,2.885758639,down-regulated in ALP ,binding (GO:0005488),no
+3-isopropylmalate dehydrogenase,1.035949392,GI:332012449,0.006595789,2.904409103,40.31603787,up-regulated in ALP,binding (GO:0005488),yes
+Ribosomal protein S11,1.068254109,GI:67461921,0.011672814,2.588042943,18.90978251,up-regulated in ALP,binding (GO:0005488),yes
+1-deoxy-D-xylulose 5-phosphate reductoisomerase,-2.585393738,GI:321164371,0.000680122,4.224546647,35.72218677,down-regulated in ALP ,binding (GO:0005488),yes
+cytochrome c biogenesis thiol:disulfide interchange protein DsbE,1.132990756,GI:332886388,0.001814677,3.620993361,36.69221947,up-regulated in ALP,binding (GO:0005488),no
+pyridoxal phosphate biosynthetic protein PdxA ,1.791859353,GI:119465673,0.000370648,4.739836441,25.31799801,up-regulated in ALP,binding (GO:0005488),yes
+molecular chaperone,-1.198529942,GI:116096055,0.020220888,2.267231521,23.96950603,down-regulated in ALP ,binding (GO:0005488),yes
+Endonuclease VIII,-1.484192575,GI:254806368,0.002617426,3.374517325,18.37867062,down-regulated in ALP ,binding (GO:0005488),yes
+putative ABC transporter ATPase subunit,-1.116950837,GI:170655154,0.011484416,2.604252951,7.850977076,down-regulated in ALP ,binding (GO:0005488),yes
+heat shock protein HSP33,-1.385796681,GI:326696029,0.005936743,3.006608955,2.241748554,down-regulated in ALP ,binding (GO:0005488),yes
+"glutathione S-transferase, putative",-1.475128401,GI:72494195,0.043058676,1.863549967,12.14117535,down-regulated in ALP ,binding (GO:0005488),no
+30S ribosomal protein s10,-2.289416726,GI:163665444,0.001814677,3.615262501,12.69084508,down-regulated in ALP ,binding (GO:0005488),yes
+thioredoxin,1.20333446,GI:170657580,0.000661028,4.260967605,2.114870723,up-regulated in ALP,binding (GO:0005488),no
+zinc-type alcohol dehydrogenase ,1.481797341,GI:154696677,0.002394598,3.469587631,3.019019706,up-regulated in ALP,binding (GO:0005488),yes
+coproporphyrinogen III oxidase,1.372992476,GI:91800108,0.000684899,4.157200233,15.75736233,up-regulated in ALP,binding (GO:0005488),yes
+-diphosphocytidyl-2-C-methyl-D-erythritol kinase ,1.102255395,GI:168195915,0.002525778,3.415550665,62.26162458,up-regulated in ALP,binding (GO:0005488),yes
+alkyl hydroperoxide reductase subunit F ,0.921891167,GI:159140768,0.01390023,2.485867564,9.654693502,up-regulated in ALP,binding (GO:0005488),yes
+tRNA modification GTPase TrmE,-0.942893887,GI:118597097,0.014529135,2.458216629,5.301544231,down-regulated in ALP ,binding (GO:0005488),yes
+mannitol dehydrogenase domain protein,1.214871999,GI:321257195,0.001420804,3.75256187,4.256994234,up-regulated in ALP,binding (GO:0005488),no
+DJ-1/PfpI family protein,-1.534359489,GI:311889634,0.017459884,2.362024631,19.5113531,down-regulated in ALP ,binding (GO:0005488),no
+redoxin family protein,1.164575129,GI:119671109,0.00259747,3.39043029,55.85236069,up-regulated in ALP,binding (GO:0005488),yes
+RNA chaperone Hfq,-1.020951019,GI:334729348,0.043278499,1.855089499,36.22913389,down-regulated in ALP ,binding (GO:0005488),yes
+Glyceraldehyde-3-phosphate dehydrogenase,2.753158121,GI:148499216,1.47E-08,10.16880946,42.74989642,up-regulated in ALP,binding (GO:0005488),yes
+30S ribosomal protein S3,1.46103572,GI:150029691,0.00831952,2.772908796,42.5483617,up-regulated in ALP,binding (GO:0005488),yes
+ATP-dependent Clp protease proteolytic subunit 1,-1.624955395,GI:123749869,0.012380142,2.544764116,8.261458101,down-regulated in ALP ,binding (GO:0005488),no
+50S ribosomal protein L1,-2.003085916,GI:158271679,0.006547957,2.929289296,29.72533367,down-regulated in ALP ,binding (GO:0005488),yes
+Cold shock-like protein CspG ,1.263236211,GI:357423929,0.022754344,2.208543402,3.594569493,up-regulated in ALP,binding (GO:0005488),yes
+"Catalase A, putative",-1.549881904,GI:258575595,0.037946093,1.943254832,28.83092045,down-regulated in ALP ,binding (GO:0005488),no
+"dihydrolipoyl dehydrogenase, putative",1.41764547,GI:154158253,0.000934315,3.985755343,31.00465287,up-regulated in ALP,binding (GO:0005488),yes
+ATP-dependent protease ATPase subunit HslU,-1.577836672,GI:110816454,0.006054825,2.986156409,40.12927971,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+multidrug efflux transporter,1.141833337,GI:255922706,0.033282314,2.021854528,19.82713274,up-regulated in ALP,catalytic activity (GO:0003824),no
+mannitol-1-phosphate dehydrogenase,1.152387447,GI:209959333,0.006595789,2.9145462,3.329775159,up-regulated in ALP,catalytic activity (GO:0003824),yes
+"thiol peroxidase, putative",1.23024759,GI:375750916,0.000506283,4.518123276,14.01973345,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Putative glutathione S-transferase,1.587306764,GI:108465068,0.037946093,1.938746136,0.249838274,up-regulated in ALP,catalytic activity (GO:0003824),yes
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase ,1.757299013,GI:345091753,0.000215093,5.225682855,22.4467435,up-regulated in ALP,catalytic activity (GO:0003824),yes
+maltooligosyl trehalose synthase,1.159773776,GI:186468201,0.016357206,2.398474739,28.21222522,up-regulated in ALP,catalytic activity (GO:0003824),yes
+aldo/keto reductase,1.682850219,GI:1373903653,0.000684899,4.17327137,29.38492174,up-regulated in ALP,catalytic activity (GO:0003824),yes
+putative GTPase of unknown function,1.357439549,GI:114540229,0.000514651,4.461531106,17.5400078,up-regulated in ALP,catalytic activity (GO:0003824),yes
+glutathione peroxidase,-1.483465421,GI:319995798,0.020220888,2.272281696,49.83079921,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+Glutathione S-transferase domain,1.271476281,GI:89336184,0.000370648,4.715532918,9.403349793,up-regulated in ALP,catalytic activity (GO:0003824),yes
+ABC transporter related,-1.847179159,GI:158280663,0.00242672,3.446290131,59.88312633,down-regulated in ALP ,catalytic activity (GO:0003824),no
+ribosomal protein S7,-1.030246345,GI:179347184,0.040755846,1.893760912,66.54390448,down-regulated in ALP ,catalytic activity (GO:0003824),no
+Ferritin Dps family protein,1.159008447,GI:323468364,0.000962602,3.955072998,39.51149795,up-regulated in ALP,catalytic activity (GO:0003824),no
+heat shock protein Hsp20,-1.41823976,GI:119954629,0.04814558,1.796570817,1.160365094,down-regulated in ALP ,catalytic activity (GO:0003824),no
+ribosomal protein L13 ,-1.073474807,GI: 94422018,0.02645048,2.135874918,36.10796839,down-regulated in ALP ,catalytic activity (GO:0003824),no
+cold shock-like protein,1.110059984,GI:154353178,0.002394598,3.465865477,19.15507325,up-regulated in ALP,catalytic activity (GO:0003824),yes
+glucose-methanol-choline oxidoreductase,1.165790551,GI:110822845,0.000661028,4.263927829,17.82116613,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Glyoxalase/bleomycin resistance protein/dioxygenase,-1.435057468,GI:284810157,0.020220888,2.269870613,32.39624069,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+rehalose synthase/probable maltokinase,1.38970981,GI:332012767,0.000215093,5.256955226,36.06658815,up-regulated in ALP,catalytic activity (GO:0003824),yes
+TrxA,2.319703042,GI:122228946,0.0000267,6.432458994,0.717746244,up-regulated in ALP,catalytic activity (GO:0003824),yes
+RNA-binding S4 domain protein ,1.192247577,GI:359758439,0.001366881,3.785755644,9.40387229,up-regulated in ALP,catalytic activity (GO:0003824),no
+formamidopyrimidine-DNA glycosylase,2.167840071,GI:94556551,0.000215093,5.275176527,63.41433052,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Aldehyde ferredoxin oxidoreductase ,-1.830177503,GI:154698438,0.000370648,4.735495637,11.51951611,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+LSU ribosomal protein L20P,-1.228043338,GI:332012200,0.043735808,1.844364227,69.38395163,down-regulated in ALP ,catalytic activity (GO:0003824),no
+"DNA ligase, NAD-dependent ",1.324451639,GI:186465487,0.000680122,4.202842939,43.68230114,up-regulated in ALP,catalytic activity (GO:0003824),yes
+OmpA/MotB domain protein,1.402650896,GI:326199319,0.000514651,4.420826879,5.437514631,up-regulated in ALP,catalytic activity (GO:0003824),no
+Glutathione S-transferase domain protein,1.32789933,GI:148499027,0.000684899,4.139105444,45.10006126,up-regulated in ALP,catalytic activity (GO:0003824),no
+6-phosphogluconate dehydrogenase,1.224216012,GI:116256971,0.049038414,1.782600458,7.933871064,up-regulated in ALP,catalytic activity (GO:0003824),yes
+LSU ribosomal protein L16P,-1.249020023,GI:186466935,0.01173493,2.576783166,19.36538391,down-regulated in ALP ,catalytic activity (GO:0003824),no
+chaperonin GroEL,-1.545846937,GI:332012950,0.040209091,1.90606068,27.53136072,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+ATP-dependent protease La,1.254467094,GI:289528456,0.000514651,4.434728485,65.59684072,up-regulated in ALP,catalytic activity (GO:0003824),yes
+ribosomal protein S9,1.266216069,GI:255924300,0.000370648,4.688316679,33.9621829,up-regulated in ALP,catalytic activity (GO:0003824),no
+thioredoxin reductase ,1.838575665,GI:182634387,0.000222817,5.08542214,23.60033701,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Cold shock-like protein CspC  ,-1.541371698,GI:332014130,0.009658001,2.698359984,28.02829339,down-regulated in ALP ,catalytic activity (GO:0003824),no
+Histidinol dehydrogenase,1.341863335,GI:160342602,0.007223941,2.844217068,43.17917034,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Methenyltetrahydrofolate cyclohydrolase,-1.219777507,GI:117647980,0.036469814,1.975185637,31.45905024,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+uroporphyrin-III C-methyltransferase,-0.931202516,GI:114550167,0.037946093,1.937748737,32.12780138,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+peptide methionine sulfoxide reductase,1.086919046,GI:333823467,0.007177322,2.857248043,23.90001233,up-regulated in ALP,catalytic activity (GO:0003824),yes
+cold-shock DNA-binding domain protein,1.899860841,GI:358753416,0.000222817,5.126500952,40.53475129,up-regulated in ALP,catalytic activity (GO:0003824),no
+3-oxoacyl-(acyl-carrier-protein) reductase,1.155523505,GI:336282959,0.020220888,2.272274373,11.83966795,up-regulated in ALP,catalytic activity (GO:0003824),yes
+"malate dehydrogenase, NAD-dependent",1.731545379,GI:179347425,0.006547957,2.931579665,26.15240872,up-regulated in ALP,catalytic activity (GO:0003824),yes
+cold shock protein ,1.302140218,GI:114315197,0.009849087,2.680305915,7.575859791,up-regulated in ALP,catalytic activity (GO:0003824),no
+ATP-dependent Clp protease ATP-binding subunit ClpX,-1.778486489,GI:288909190,0.0000141,6.887429667,2.595374163,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+50S ribosomal protein L7/L12,-1.87646691,GI:319750906,0.032849919,2.034595592,2.885758639,down-regulated in ALP ,catalytic activity (GO:0003824),no
+3-isopropylmalate dehydrogenase,1.035949392,GI:332012449,0.006595789,2.904409103,40.31603787,up-regulated in ALP,catalytic activity (GO:0003824),yes
+Ribosomal protein S11,1.068254109,GI:67461921,0.011672814,2.588042943,18.90978251,up-regulated in ALP,catalytic activity (GO:0003824),no
+1-deoxy-D-xylulose 5-phosphate reductoisomerase,-2.585393738,GI:321164371,0.000680122,4.224546647,35.72218677,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+cytochrome c biogenesis thiol:disulfide interchange protein DsbE,1.132990756,GI:332886388,0.001814677,3.620993361,36.69221947,up-regulated in ALP,catalytic activity (GO:0003824),yes
+pyridoxal phosphate biosynthetic protein PdxA ,1.791859353,GI:119465673,0.000370648,4.739836441,25.31799801,up-regulated in ALP,catalytic activity (GO:0003824),yes
+molecular chaperone,-1.198529942,GI:116096055,0.020220888,2.267231521,23.96950603,down-regulated in ALP ,catalytic activity (GO:0003824),no
+Endonuclease VIII,-1.484192575,GI:254806368,0.002617426,3.374517325,18.37867062,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+putative ABC transporter ATPase subunit,-1.116950837,GI:170655154,0.011484416,2.604252951,7.850977076,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+heat shock protein HSP33,-1.385796681,GI:326696029,0.005936743,3.006608955,2.241748554,down-regulated in ALP ,catalytic activity (GO:0003824),no
+"glutathione S-transferase, putative",-1.475128401,GI:72494195,0.043058676,1.863549967,12.14117535,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+30S ribosomal protein s10,-2.289416726,GI:163665444,0.001814677,3.615262501,12.69084508,down-regulated in ALP ,catalytic activity (GO:0003824),no
+thioredoxin,1.20333446,GI:170657580,0.000661028,4.260967605,2.114870723,up-regulated in ALP,catalytic activity (GO:0003824),yes
+zinc-type alcohol dehydrogenase ,1.481797341,GI:154696677,0.002394598,3.469587631,3.019019706,up-regulated in ALP,catalytic activity (GO:0003824),yes
+coproporphyrinogen III oxidase,1.372992476,GI:91800108,0.000684899,4.157200233,15.75736233,up-regulated in ALP,catalytic activity (GO:0003824),yes
+-diphosphocytidyl-2-C-methyl-D-erythritol kinase ,1.102255395,GI:168195915,0.002525778,3.415550665,62.26162458,up-regulated in ALP,catalytic activity (GO:0003824),yes
+alkyl hydroperoxide reductase subunit F ,0.921891167,GI:159140768,0.01390023,2.485867564,9.654693502,up-regulated in ALP,catalytic activity (GO:0003824),yes
+tRNA modification GTPase TrmE,-0.942893887,GI:118597097,0.014529135,2.458216629,5.301544231,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+mannitol dehydrogenase domain protein,1.214871999,GI:321257195,0.001420804,3.75256187,4.256994234,up-regulated in ALP,catalytic activity (GO:0003824),yes
+DJ-1/PfpI family protein,-1.534359489,GI:311889634,0.017459884,2.362024631,19.5113531,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+redoxin family protein,1.164575129,GI:119671109,0.00259747,3.39043029,55.85236069,up-regulated in ALP,catalytic activity (GO:0003824),yes
+RNA chaperone Hfq,-1.020951019,GI:334729348,0.043278499,1.855089499,36.22913389,down-regulated in ALP ,catalytic activity (GO:0003824),no
+Glyceraldehyde-3-phosphate dehydrogenase,2.753158121,GI:148499216,1.47E-08,10.16880946,42.74989642,up-regulated in ALP,catalytic activity (GO:0003824),yes
+30S ribosomal protein S3,1.46103572,GI:150029691,0.00831952,2.772908796,42.5483617,up-regulated in ALP,catalytic activity (GO:0003824),no
+ATP-dependent Clp protease proteolytic subunit 1,-1.624955395,GI:123749869,0.012380142,2.544764116,8.261458101,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+50S ribosomal protein L1,-2.003085916,GI:158271679,0.006547957,2.929289296,29.72533367,down-regulated in ALP ,catalytic activity (GO:0003824),no
+Cold shock-like protein CspG ,1.263236211,GI:357423929,0.022754344,2.208543402,3.594569493,up-regulated in ALP,catalytic activity (GO:0003824),no
+"Catalase A, putative",-1.549881904,GI:258575595,0.037946093,1.943254832,28.83092045,down-regulated in ALP ,catalytic activity (GO:0003824),yes
+"dihydrolipoyl dehydrogenase, putative",1.41764547,GI:154158253,0.000934315,3.985755343,31.00465287,up-regulated in ALP,catalytic activity (GO:0003824),yes
+ATP-dependent protease ATPase subunit HslU,-1.577836672,GI:110816454,0.006054825,2.986156409,40.12927971,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+multidrug efflux transporter,1.141833337,GI:255922706,0.033282314,2.021854528,19.82713274,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+mannitol-1-phosphate dehydrogenase,1.152387447,GI:209959333,0.006595789,2.9145462,3.329775159,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+"thiol peroxidase, putative",1.23024759,GI:375750916,0.000506283,4.518123276,14.01973345,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Putative glutathione S-transferase,1.587306764,GI:108465068,0.037946093,1.938746136,0.249838274,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase ,1.757299013,GI:345091753,0.000215093,5.225682855,22.4467435,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+maltooligosyl trehalose synthase,1.159773776,GI:186468201,0.016357206,2.398474739,28.21222522,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+aldo/keto reductase,1.682850219,GI:1373903653,0.000684899,4.17327137,29.38492174,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+putative GTPase of unknown function,1.357439549,GI:114540229,0.000514651,4.461531106,17.5400078,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+glutathione peroxidase,-1.483465421,GI:319995798,0.020220888,2.272281696,49.83079921,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+Glutathione S-transferase domain,1.271476281,GI:89336184,0.000370648,4.715532918,9.403349793,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+ABC transporter related,-1.847179159,GI:158280663,0.00242672,3.446290131,59.88312633,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+ribosomal protein S7,-1.030246345,GI:179347184,0.040755846,1.893760912,66.54390448,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+Ferritin Dps family protein,1.159008447,GI:323468364,0.000962602,3.955072998,39.51149795,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+heat shock protein Hsp20,-1.41823976,GI:119954629,0.04814558,1.796570817,1.160365094,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+ribosomal protein L13 ,-1.073474807,GI: 94422018,0.02645048,2.135874918,36.10796839,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+cold shock-like protein,1.110059984,GI:154353178,0.002394598,3.465865477,19.15507325,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+glucose-methanol-choline oxidoreductase,1.165790551,GI:110822845,0.000661028,4.263927829,17.82116613,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Glyoxalase/bleomycin resistance protein/dioxygenase,-1.435057468,GI:284810157,0.020220888,2.269870613,32.39624069,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+rehalose synthase/probable maltokinase,1.38970981,GI:332012767,0.000215093,5.256955226,36.06658815,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+TrxA,2.319703042,GI:122228946,0.0000267,6.432458994,0.717746244,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+RNA-binding S4 domain protein ,1.192247577,GI:359758439,0.001366881,3.785755644,9.40387229,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+formamidopyrimidine-DNA glycosylase,2.167840071,GI:94556551,0.000215093,5.275176527,63.41433052,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Aldehyde ferredoxin oxidoreductase ,-1.830177503,GI:154698438,0.000370648,4.735495637,11.51951611,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+LSU ribosomal protein L20P,-1.228043338,GI:332012200,0.043735808,1.844364227,69.38395163,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+"DNA ligase, NAD-dependent ",1.324451639,GI:186465487,0.000680122,4.202842939,43.68230114,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+OmpA/MotB domain protein,1.402650896,GI:326199319,0.000514651,4.420826879,5.437514631,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Glutathione S-transferase domain protein,1.32789933,GI:148499027,0.000684899,4.139105444,45.10006126,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+6-phosphogluconate dehydrogenase,1.224216012,GI:116256971,0.049038414,1.782600458,7.933871064,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+LSU ribosomal protein L16P,-1.249020023,GI:186466935,0.01173493,2.576783166,19.36538391,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+chaperonin GroEL,-1.545846937,GI:332012950,0.040209091,1.90606068,27.53136072,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+ATP-dependent protease La,1.254467094,GI:289528456,0.000514651,4.434728485,65.59684072,up-regulated in ALP,ATP-dependent activity (GO:0140657),yes
+ribosomal protein S9,1.266216069,GI:255924300,0.000370648,4.688316679,33.9621829,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+thioredoxin reductase ,1.838575665,GI:182634387,0.000222817,5.08542214,23.60033701,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Cold shock-like protein CspC  ,-1.541371698,GI:332014130,0.009658001,2.698359984,28.02829339,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+Histidinol dehydrogenase,1.341863335,GI:160342602,0.007223941,2.844217068,43.17917034,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Methenyltetrahydrofolate cyclohydrolase,-1.219777507,GI:117647980,0.036469814,1.975185637,31.45905024,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+uroporphyrin-III C-methyltransferase,-0.931202516,GI:114550167,0.037946093,1.937748737,32.12780138,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+peptide methionine sulfoxide reductase,1.086919046,GI:333823467,0.007177322,2.857248043,23.90001233,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+cold-shock DNA-binding domain protein,1.899860841,GI:358753416,0.000222817,5.126500952,40.53475129,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+3-oxoacyl-(acyl-carrier-protein) reductase,1.155523505,GI:336282959,0.020220888,2.272274373,11.83966795,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+"malate dehydrogenase, NAD-dependent",1.731545379,GI:179347425,0.006547957,2.931579665,26.15240872,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+cold shock protein ,1.302140218,GI:114315197,0.009849087,2.680305915,7.575859791,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+ATP-dependent Clp protease ATP-binding subunit ClpX,-1.778486489,GI:288909190,0.0000141,6.887429667,2.595374163,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+50S ribosomal protein L7/L12,-1.87646691,GI:319750906,0.032849919,2.034595592,2.885758639,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+3-isopropylmalate dehydrogenase,1.035949392,GI:332012449,0.006595789,2.904409103,40.31603787,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+Ribosomal protein S11,1.068254109,GI:67461921,0.011672814,2.588042943,18.90978251,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+1-deoxy-D-xylulose 5-phosphate reductoisomerase,-2.585393738,GI:321164371,0.000680122,4.224546647,35.72218677,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+cytochrome c biogenesis thiol:disulfide interchange protein DsbE,1.132990756,GI:332886388,0.001814677,3.620993361,36.69221947,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+pyridoxal phosphate biosynthetic protein PdxA ,1.791859353,GI:119465673,0.000370648,4.739836441,25.31799801,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+molecular chaperone,-1.198529942,GI:116096055,0.020220888,2.267231521,23.96950603,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+Endonuclease VIII,-1.484192575,GI:254806368,0.002617426,3.374517325,18.37867062,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+putative ABC transporter ATPase subunit,-1.116950837,GI:170655154,0.011484416,2.604252951,7.850977076,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+heat shock protein HSP33,-1.385796681,GI:326696029,0.005936743,3.006608955,2.241748554,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+"glutathione S-transferase, putative",-1.475128401,GI:72494195,0.043058676,1.863549967,12.14117535,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+30S ribosomal protein s10,-2.289416726,GI:163665444,0.001814677,3.615262501,12.69084508,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+thioredoxin,1.20333446,GI:170657580,0.000661028,4.260967605,2.114870723,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+zinc-type alcohol dehydrogenase ,1.481797341,GI:154696677,0.002394598,3.469587631,3.019019706,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+coproporphyrinogen III oxidase,1.372992476,GI:91800108,0.000684899,4.157200233,15.75736233,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+-diphosphocytidyl-2-C-methyl-D-erythritol kinase ,1.102255395,GI:168195915,0.002525778,3.415550665,62.26162458,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+alkyl hydroperoxide reductase subunit F ,0.921891167,GI:159140768,0.01390023,2.485867564,9.654693502,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+tRNA modification GTPase TrmE,-0.942893887,GI:118597097,0.014529135,2.458216629,5.301544231,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+mannitol dehydrogenase domain protein,1.214871999,GI:321257195,0.001420804,3.75256187,4.256994234,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+DJ-1/PfpI family protein,-1.534359489,GI:311889634,0.017459884,2.362024631,19.5113531,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+redoxin family protein,1.164575129,GI:119671109,0.00259747,3.39043029,55.85236069,up-regulated in ALP,ATP-dependent activity (GO:0140657),yes
+RNA chaperone Hfq,-1.020951019,GI:334729348,0.043278499,1.855089499,36.22913389,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+Glyceraldehyde-3-phosphate dehydrogenase,2.753158121,GI:148499216,1.47E-08,10.16880946,42.74989642,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+30S ribosomal protein S3,1.46103572,GI:150029691,0.00831952,2.772908796,42.5483617,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+ATP-dependent Clp protease proteolytic subunit 1,-1.624955395,GI:123749869,0.012380142,2.544764116,8.261458101,down-regulated in ALP ,ATP-dependent activity (GO:0140657),yes
+50S ribosomal protein L1,-2.003085916,GI:158271679,0.006547957,2.929289296,29.72533367,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+Cold shock-like protein CspG ,1.263236211,GI:357423929,0.022754344,2.208543402,3.594569493,up-regulated in ALP,ATP-dependent activity (GO:0140657),no
+"Catalase A, putative",-1.549881904,GI:258575595,0.037946093,1.943254832,28.83092045,down-regulated in ALP ,ATP-dependent activity (GO:0140657),no
+"dihydrolipoyl dehydrogenase, putative",1.41764547,GI:154158253,0.000934315,3.985755343,31.00465287,up-regulated in ALP,ATP-dependent activity (GO:0140657),no

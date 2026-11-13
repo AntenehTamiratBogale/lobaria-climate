@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Please cite the associated research article when using this repository."
+type: software
+title: "Lobaria climate: companion R scripts and processed datasets"
+authors:
+  - family-names: Bogale
+    given-names: Anteneh Tamirat
+preferred-citation:
+  type: article
+  title: "The microbiome of the lichen Lobaria pulmonaria varies according to climate on a subcontinental scale"
+  authors:
+    - family-names: "Bogale"
+      given-names: "Anteneh Tamirat"
+    - family-names: "Braun"
+      given-names: "Maria"
+    - family-names: "Bernhardt"
+      given-names: "Jörg"
+    - family-names: "Zühlke"
+      given-names: "Daniela"
+    - family-names: "Schiefelbein"
+      given-names: "Ulf"
+    - family-names: "Bog"
+      given-names: "Manuela"
+    - family-names: "Scheidegger"
+      given-names: "Christoph"
+    - family-names: "Zengerer"
+      given-names: "Veronika"
+    - family-names: "Becher"
+      given-names: "Dörte"
+    - family-names: "Grube"
+      given-names: "Martin"
+    - family-names: "Riedel"
+      given-names: "Katharina"
+    - family-names: "Bengtsson"
+      given-names: "Mia M."
+  journal: Environmental Microbiology Reports
+  volume: 16
+  issue: 3
+  start: e13289
+  year: 2024
+  doi: 10.1111/1758-2229.13289

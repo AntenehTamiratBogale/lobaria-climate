@@ -1,0 +1,13 @@
+catagory,variable,rSquare
+Climatic,Temperature Seasonality,0.13743
+Climatic,Annual Mean Temperature,0.11719
+Climatic,Mean Diurnal Range (Temperature),0.05189
+Climatic,Precipitation of Driest Quarter,0.03954
+Climatic,Annual Precipitation,0.0395
+Climatic,Precipitation Seasonality,0.03079
+Climatic,Residual,0.58365
+Weather & Seasonality,Humidity_2W,0.12592
+Weather & Seasonality,Temp_2W,0.07529
+Weather & Seasonality,SampleDate_Julian,0.06782
+Weather & Seasonality,Precipcover_2W,0.04722
+Weather & Seasonality,Residual,0.68375
